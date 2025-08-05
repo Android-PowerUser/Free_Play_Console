@@ -7,7 +7,7 @@ Anyone with Google Play Console has the ability to add a seemingly infinite numb
 
 <img src="https://github.com/Android-PowerUser/Free_Play_Console/blob/main/Screenshot_20250805-145756_Chrome.png" alt="" width="200"/>
 
-To add you, you need a Gmail address. You can add it here.
+You need a Gmail address which you can add here.
 https://docs.google.com/forms/d/1wQiKmP9R2PTmZQe_1ZAp3KCv9M8_d9nlqoLsLot2M-I/edit
 You will automatically receive an E-Mail from Google when you have been added to the Google Play Developer Console.
 
