@@ -24,4 +24,4 @@ The German Federal Cartel Office also considers it a violation, but has refraine
 
 They could theoretically impose fines of 10% of annual turnover each year and 20% for repeat offenses. Apparently they could even break up Alphabet. Whoever believes it
 
-A class action lawsuit might also be possible, and the Testers Community could be a target for this.
+A class action lawsuit might also be possible, and the Testers Community could be a target group for this.
