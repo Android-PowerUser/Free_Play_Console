@@ -28,4 +28,4 @@ A class action lawsuit might also be possible, and the Testers Community could b
 
 In Germany, the consumer protection agency has the right to bring class action lawsuits and could potentially take action against this. However, a briefing from the consumer protection agency has not yet been begun.
 
-Unfortunately, I'm not a lawyer and can't assess the risk of mass countersuits, abuse of rights by Alphabet, protracted proceedings, and associated costs. If you're a lawyer, please take action, regardless of your country!
+Unfortunately, I'm not a lawyer and can't assess the risk of mass countersuits, abuse of rights by Alphabet, protracted proceedings, and associated costs for a civil / injunction action. If you're a lawyer, please take action, regardless of your country!
