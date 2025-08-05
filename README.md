@@ -23,3 +23,5 @@ This violates Article 102 of the TFEU, § 19 and § 33 of the Act against Restra
 The German Federal Cartel Office also considers it a violation, but has refrained from taking action due to a lack of staff. The EU Commission has been informed and stated that it will "include it in its monitoring of Alphabet."
 
 They could theoretically impose fines of 10% of annual turnover each year and 20% for repeat offenses. Apparently they could even break up Alphabet. Whoever believes it
+
+A class action lawsuit might also be possible, and the Testers Community could be a target for this.
