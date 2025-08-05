@@ -26,4 +26,6 @@ They could theoretically impose fines of 10% of annual turnover each year and 20
 
 A class action lawsuit might also be possible, and the Testers Community could be a target group for this. Warning letters are also conceivable.
 
+In Germany, the consumer protection agency has the right to bring class action lawsuits and could potentially take action against this. However, a briefing from the consumer protection agency has not yet been begun.
+
 Unfortunately, I'm not a lawyer and can't assess the risk of mass countersuits, abuse of rights by Alphabet, protracted proceedings, and associated costs. If you're a lawyer, please take action, regardless of your country!
