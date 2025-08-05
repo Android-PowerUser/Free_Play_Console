@@ -17,3 +17,9 @@ Please do not abuse this!
 ### "12-Tester-rule"
 
 Google has illegally introduced a "12-tester-rule" for all non-business accounts. This applies to all accounts registered in the Play Console since November 13, 2023. Creating a business account involves significantly more effort. The "12-tester-rule" states that you must have at least 12 testers for 14 days for every app to be approved on the Play Store.
+
+This violates Article 102 of the TFEU, § 19 and § 33 of the Act against Restraints of Competition (GWB) under German law. Those affected are entitled to sue for an injunction under German law.
+
+The German Federal Cartel Office also considers it a violation, but has refrained from taking action due to a lack of staff. The EU Commission has been informed and stated that it will "include it in its monitoring of Alphabet."
+
+They could theoretically impose fines of 10% of annual turnover each year and 20% for repeat offenses. Apparently they could even break up Alphabet. Whoever believes it
