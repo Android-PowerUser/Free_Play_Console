@@ -18,6 +18,8 @@ Please do not abuse this!
 
 Google has illegally introduced a "12-tester-rule" for all non-business accounts. This applies to all accounts registered in the Play Console since November 13, 2023. Creating a business account involves significantly more effort. The "12-tester-rule" states that you must have at least 12 testers for 14 days for every app to be approved on the Play Store.
 
+#### Law
+
 This violates Article 102 of the TFEU, § 19 and § 33 of the Act against Restraints of Competition (GWB) under German law. Those affected are entitled to sue for an injunction under German law.
 
 The German Federal Cartel Office also considers it a violation, but has refrained from taking action due to a lack of staff. The EU Commission has been informed and stated that it will "include it in its monitoring of Alphabet."
@@ -29,3 +31,7 @@ A class action lawsuit might also be possible, and the Testers Community could b
 In Germany, the consumer protection agency has the right to bring class action lawsuits and could potentially take action against this. However, a briefing from the consumer protection agency has not yet been begun.
 
 Unfortunately, I'm not a lawyer and can't assess the risk of mass countersuits, abuse of rights by Alphabet, protracted proceedings, and associated costs for a civil / injunction action. If you're a lawyer, please take action, regardless of your country!
+
+### If you want to make the app chargeable
+
+If you offer your app for a fee, you can do so here without having to pay anything first, like with Google. However, only one bank account can be registered, and fees apply in my country and bank. This amounts to €1 for each deposit and withdrawal plus 30% fees (including Google). If you wish, I will transfer amounts of €10 net (€14.23 gross) or more via PayPal. You are responsible for paying taxes.
