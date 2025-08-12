@@ -18,7 +18,7 @@ Please do not abuse this!
 
 Google has illegally introduced a "12-tester-rule" for all non-business accounts. This applies to all accounts registered in the Play Console since November 13, 2023. Creating a business account involves significantly more effort. The "12-tester-rule" states that you must have at least 12 testers for 14 days for every app to be approved on the Play Store.
 
-In practice, however, people with 95 testers have been rejected. The trick is to get at least three releases out within two weeks, regardless of whether you've made any changes. Otherwise, you can try for months without getting the app through. Incidentally, this isn't described anywhere at Google and is only public thanks to the founder of the "Tester Community."
+In practice, however, people with 95 testers have been rejected. The trick is to get at least three releases out within two weeks, regardless of whether you've made any changes. Otherwise, you can try for months without getting the app through. Incidentally, this isn't described anywhere at Google and is only public thanks to the founder of the "Tester Community".
 
 #### "12-Tester-rule" Law
 
