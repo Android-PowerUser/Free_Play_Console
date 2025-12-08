@@ -12,7 +12,7 @@ https://docs.google.com/forms/d/1wQiKmP9R2PTmZQe_1ZAp3KCv9M8_d9nlqoLsLot2M-I/edi
 You will automatically receive an E-Mail from Google when you have been added to the Google Play Developer Console.
 
 Please do not upload anything that violates Google's conditions, as I could lose my account without compensation. Since my personal information is stored and would have to be re-entered for a new account (which is then no longer possible), I have to sporadically check whether you are uploading apps or submissions that Google considers harmful.
-Please do not abuse this! 
+Please do not abuse this! Anyone who harms me will be removed without comment.
 
 ### "12-Tester-rule"
 
