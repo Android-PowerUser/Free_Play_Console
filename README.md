@@ -36,4 +36,4 @@ Unfortunately, I'm not a lawyer and can't assess the risk of mass countersuits, 
 
 ### If you want to make the app chargeable
 
-If you offer your app for a fee, you can do so here without having to pay anything first, like with Google. However, only one bank account can be registered, and fees apply in my country and bank. This amounts to €1 for each deposit and withdrawal plus 30% fees (including Google). If you wish, I will transfer amounts of €10 net (€14.23 gross) or more via PayPal. You are responsible for paying taxes.
+If you offer your app for a fee, you can do so here without having to pay anything first, like with Google. However, only one bank account can be registered, and fees apply in my country and bank. This amounts to €1 for each deposit and withdrawal plus 30% fees (including Google). If you wish, I will transfer amounts of €10 net (€14.23 gross) or more via PayPal.
