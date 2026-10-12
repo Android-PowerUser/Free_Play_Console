@@ -31,9 +31,8 @@ They could theoretically impose fines of 10% of annual turnover each year and 20
 A class action lawsuit might also be possible, and the Testers Community could be a target group for this. Warning letters are also conceivable.
 
 In Germany, the consumer protection agency has the right to bring class action lawsuits and could potentially take action against this. However, a briefing from the consumer protection agency has not yet been begun.
-
 Unfortunately, I'm not a lawyer and can't assess the risk of mass countersuits, abuse of rights by Alphabet, protracted proceedings, and associated costs for a civil / injunction action. If you're a lawyer, please take action, regardless of your country!
 
 ### If you want to make the app chargeable
 
-If you offer your app for a fee, you can do so here without having to pay anything first, like with Google. However, only one bank account can be registered, and fees apply in my country and bank. This amounts to €1 for each deposit and withdrawal plus 30% fees (including Google). If you wish, I will transfer amounts of €10 net (€14.23 gross) or more via PayPal.
+If you offer your app for a fee, you can do so here without having to pay anything first, like with Google. However, only one bank account can be registered so I will transfer the funds via PayPal to your Gmail from the developer account.
