@@ -36,3 +36,7 @@ Unfortunately, I'm not a lawyer and can't assess the risk of mass countersuits, 
 ### If you want to make the app chargeable
 
 If you offer your app for a fee, you can do so here without having to pay anything first, like with Google. However, only one bank account can be registered so I will transfer the funds via PayPal to your Gmail from the developer account.
+
+### Automatic problem solving
+
+I have build a AI agent app for Android called [Screen Operator](https://github.com/Android-PowerUser/ScreenOperator). With a command does it independently all annoying tasks that Google gives me. For example to get production access I have to write about 30 lines for each app you publish explaining why your app is ready for publishing. I let Screen Operator do it. Or if I can't find something in the Play Console, it finds the right buttons to do the things for me. You can also use it for annoying tasks that Google gives you.
