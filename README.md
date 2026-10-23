@@ -21,7 +21,7 @@ In practice, however, people with 95 testers have been rejected. The trick is to
 
 #### "12-Tester-rule" Law
 
-This violates Article 102 of the TFEU, § 19 and § 33 of the Act against Restraints of Competition (GWB) under German law. Those affected are entitled to sue for an injunction under German law.
+This violates Article 102 of the TFEU (EU-law), § 19 and § 33 of the Act against Restraints of Competition (GWB) under German law. Those affected are entitled to sue for an injunction under German law.
 
 The German Federal Cartel Office also considers it a violation, but has refrained from taking action due to a lack of staff. The EU Commission has been informed and stated that it will "include it in its monitoring of Alphabet."
 
