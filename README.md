@@ -10,7 +10,7 @@ Anyone with Google Play Console has the ability to add a seemingly infinite numb
 ### Read the following carefully! I will not respond to any permission requests from Play Console or E-Mail. I put a lot of time into automation
 
 You need a Gmail address. You will automatically receive an E-Mail from Google when you have been added to the Google Play Developer Console. Google cannot automatically connect an app to the user who created it. When you create an app in the console, you will need to return to the form on THIS WEBSITE to get the permission to edit your app.
-### You must fill out the form twice!
+## You must fill out the form twice!
 Once to be invited and another time after you have created your app in play console. Only one user can edit an app. You can leave the second field in the form blank if you haven't created an app in the Play Console yet. The package name is NOT the app name. If you don't understand that, you shouldn't publish apps.
 https://docs.google.com/forms/d/1wQiKmP9R2PTmZQe_1ZAp3KCv9M8_d9nlqoLsLot2M-I/viewform
 
