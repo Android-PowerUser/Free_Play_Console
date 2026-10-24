@@ -7,7 +7,11 @@ Anyone with Google Play Console has the ability to add a seemingly infinite numb
 
 <img src="https://github.com/Android-PowerUser/Free_Play_Console/blob/main/Screenshot_20250805-145756_Chrome.png" alt="" width="200"/>
 
-You need a Gmail address. You will automatically receive an E-Mail from Google when you have been added to the Google Play Developer Console. Google cannot automatically connect an app to the user who created it. When you create an app in the console, you will need to return to the form on THIS WEBSITE to get the permission to edit your app. You fill out the form twice. Once to be invited and another time after you have created your app in play console. Only one user can edit an app. You can leave the second field in the form blank if you haven't created an app in the Play Console yet. The package name is NOT the app name. I will not respond to any permission requests from Play Console or email. I put a lot of time into automation. If you don't understand that, use AI to understand that.
+### Read the following carefully! I will not respond to any permission requests from Play Console or E-Mail. I put a lot of time into automation
+
+You need a Gmail address. You will automatically receive an E-Mail from Google when you have been added to the Google Play Developer Console. Google cannot automatically connect an app to the user who created it. When you create an app in the console, you will need to return to the form on THIS WEBSITE to get the permission to edit your app.
+### You must fill out the form twice!
+Once to be invited and another time after you have created your app in play console. Only one user can edit an app. You can leave the second field in the form blank if you haven't created an app in the Play Console yet. The package name is NOT the app name. If you don't understand that, you shouldn't publish apps.
 https://docs.google.com/forms/d/1wQiKmP9R2PTmZQe_1ZAp3KCv9M8_d9nlqoLsLot2M-I/viewform
 
 Please do not upload anything that violates Google's conditions, as I could lose my account without compensation. Since my personal information is stored and would have to be re-entered for a new account (which is then no longer possible), I have to sporadically check whether you are uploading apps or submissions that Google considers harmful.
